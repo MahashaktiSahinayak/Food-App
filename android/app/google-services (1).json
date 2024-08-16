@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761193711100",
+    "project_id": "fireauth-edb65",
+    "storage_bucket": "fireauth-edb65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761193711100:android:6a91e6d055e9d0e7bc1e79",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2qVLkdlbU68GbtpUTTom8i91fy9SGSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
